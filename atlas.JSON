@@ -1,1 +1,42 @@
-
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Atlas/ Atlas Prime",
+      "url": "https://warframe.fandom.com/fr/wiki/Ash#Principal",
+      "color": 166345
+    },
+    {
+      "title": "Passif: Hémorragie",
+      "description": "Les effets de Saignement infligent des dégâts augmentés de 25% et durent 50% plus longtemps.",
+      "url": "https://warframe.fandom.com/fr/wiki/Ash#Info",
+      "color": 2799119
+    },
+    {
+      "title": "Pouvoir : Shuriken",
+      "description": "Lance des shuriken tranchants qui infligent des dégâts élevés et clouent les ennemis tués aux murs.\n\nPortée : 60 m (distance maximale de ciblage)\nPuissance :100 / 250 / 350 / 500 (dégâts de Tranchant )\n\nAutre :1 / 1 / 2 / 2 (nbr. de shuriken)\n6 m (rayon de ciblage automatique)\n90° (angle de ciblage)\n100% (chance de Statut de Tranchant )\n\nMod d’augmentation :\nPVE\nArticle Principal: Shuriken Chercheur\nShuriken Chercheur  est un Mod d'Augmentation de Warframe pour le Shuriken  d'Ash  qui permet de réduire temporairement l'Armure des ennemis touchés.\n\nRéduction d'Armure : 35%/45%/55%/70%\nDurée : 2s/4s/6s/8s\nCoût : 6/.../9",
+      "url": "https://warframe.fandom.com/fr/wiki/Shuriken",
+      "color": 15402759
+    },
+    {
+      "title": "Écran de Fumée",
+      "description": "Fait exploser une bombe fumigène qui étourdit les ennemis proches et obscurcit leur vision, rendant Ash invisible pendant une courte période.\n\nPortée :10 m\nDurée :2 / 4 / 6 / 8 s\n\nMod d’augmentation :\n\nPVE\nArticle Principal: Ombre de Fumée\nOmbre de Fumée   est un Mod d'Augmentation de Warframe pour l'Écran de Fumée   d'Ash   qui permet de camoufler temporairement les alliés proches en plus de soit-même.\n\nDurée :2s/4s/6s/8s\nPortée : 15m\nCoût : 6/.../9\n\nPVP\nArticle Principal:  \tGaz Lacrymogène\nGaz Lacrymogène est un Mod d'Augmentation de Warframe pour l'Écran de Fumée d'Ash utilisable uniquement en Conclave qui rend temporairement les ennemis aveugles.\n\nDurée : 3s\nPortée : 1m/2m/3m/4m\nCoût : 6/.../9",
+      "url": "https://warframe.fandom.com/fr/wiki/%C3%89cran_de_Fum%C3%A9e",
+      "color": 15402759
+    },
+    {
+      "title": "Téléportation",
+      "description": "Ash se téléporte vers la cible, l'amenant à portée de mêlée et la rendant vulnérable à un coup de grâce.\n\nPortée:20 / 45 / 45 / 60 m\n\nMod d’augmentation :\nPVE\nArticle Principal: Téléportation Fatale\nTéléportation Fatale   est un Mod d'Augmentation de Warframe pour la Téléportation   d'Ash   qui permet d'infliger un Coup de Grâce avec un multiplicateur de dégâts lors de la téléportation sur la cible et restaurant 50% du coût en énergie si la cible est tuée.\n\nDégâts supplémentaires : 125%/150%/175%/200%\nCoût : 6/.../9",
+      "url": "https://warframe.fandom.com/fr/wiki/T%C3%A9l%C3%A9portation",
+      "color": 15402759
+    },
+    {
+      "title": "Tempête de Lames",
+      "description": "Envoie des clones d'ombres d'Ash dévaster les groupes d'ennemis distants. Rejoignez la mêlée en utilisant Téléportation.\n\nEnergie par Marque : 12\nEnergie par Marque (invisible) : 6\nPuissance :750 / 1000 / 1500 / 2000 (dégâts)\nPortée :50 m \nAutre :3 (nbr. de marques max par cible)\n2 (nbr. de clones)\n\nMod d’augmentation :\nPVE\nArticle Principal: Longue Tempête\nLongue Tempête   est un Mod d'Augmentation de Warframe pour la Tempête de Lames   d'Ash   qui permet d'augmenter le nombre de points de combo ajouté par Tempête de Lames   au combo de mêlée, ainsi que la durée de celui-ci.\n\nBonus de combo par Attaque : 1/2/3/4\nDurée de Combo : 10s\nCoût : 6/.../9",
+      "url": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Lames",
+      "color": 15402759
+    }
+  ],
+  "username": "ash",
+  "avatar_url": "https://www.discordavatars.com/wp-content/uploads/2020/05/339363864439422986.jpg"
+}
