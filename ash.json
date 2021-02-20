@@ -2,16 +2,16 @@
   "content": null,
   "embeds": [
     {
-      "title": "Passif: Hémorragie",
-      "description": "Les effets de Saignement infligent des dégâts augmentés de 25% et durent 50% plus longtemps.",
-      "url": "https://warframe.fandom.com/fr/wiki/Ash#Info",
-      "color": 2799119
-    },
-    {
       "title": "Ash / Ash Prime",
       "description": "Ash la warframe ninja est rapide, manœuvrable et furtive, elle possède un grand taux de survie sur le terrain. Des mouvements rapides et des outils mortels d'assassinat font d'Ash une véritable machine à tuer.",
       "url": "https://warframe.fandom.com/fr/wiki/Ash#Principal",
       "color": 166345
+    },
+    {
+      "title": "Passif: Hémorragie",
+      "description": "Les effets de Saignement infligent des dégâts augmentés de 25% et durent 50% plus longtemps.",
+      "url": "https://warframe.fandom.com/fr/wiki/Ash#Info",
+      "color": 2799119
     },
     {
       "title": "Pouvoir : Shuriken",
