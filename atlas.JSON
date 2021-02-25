@@ -22,19 +22,19 @@
     {
       "title": "__Tectonique__",
       "description": "Invoquez un mur de pierre, activez ce pouvoir de nouveau afin d'envoyer les pierres s'écraser sur les ennemis. \n\n```md\nPuissance :\n5x (multiplicateur d'armure)\n2850 / 3150 / 3450 / 3750 (santé de base)\n250 / 300 / 350 / 500 (dégâts explosion)\n150 / 300 / 450 / 600 (dégâts rocher)\n```\n```md\nPortée : 3 / 3 / 4 / 5 m (rayon d'explosion)\n```\n```md\nAutre : 1 / 2 / 3 / 4 s (durée d'invulnérabilité)\n15 m (distance projection rocher)\n30 m (distance projection rocher pétrifié)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Fracture Tectonique\nFracture Tectonique est un Mods d'Augmentation de Warframes pour **Atlas** qui permet à Tectonique de __créer plusieurs murs supplémentaires simultanément__, mais sacrifie la capacité de les transformer en blocs de rochers offensifs.\n```md\nMurs : 2/2/3/3\n```\n```md\nDurabilité : 70%/80%/90%/100%\n```\n```md\nCoût : 6/.../9\n```",
-      "url": "https://warframe.fandom.com/fr/wiki/%C3%89cran_de_Fum%C3%A9e",
+      "url": "https://warframe.fandom.com/fr/wiki/Tectonique",
       "color": 15402759
     },
     {
       "title": "__Pétrification__",
       "description": "Le regard pétrifiant d'Atlas fossilisera les ennemis, soignera les Golems et renforcera les Remparts. Quand ils sont éclatés en morceaux,__ les ennemis pétrifiés laissent tomber des Gravats__ de soin ou d'armure bonus pour **Atlas**.\nPuissance : 100 % (soin Golem)\n```\n```md\nDurée : 5 / 10 / 15 / 20 s\n```\n```md\nPortée : 10 / 11 / 12 / 14 m (portée du cône)\nAutre : 60° (FOV)\n+50 % (vulnérabilité)\n1 (Gravat par ennemi)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Regard Minéral\nRegard Minéral est un Mods d'Augmentation de Warframes pour **Atlas** qui permet à Pétrification de numériser les ennemis qu'il pétrifie pour les ajouter au codex et donner __une chance d'obtenir du butin supplémentaire__.\n```md\nChance de loot : 10%/15%/20%/25%\n```\n```md\nCoût : 6/.../9\n```",
-      "url": "https://warframe.fandom.com/fr/wiki/T%C3%A9l%C3%A9portation",
+      "url": "https://warframe.fandom.com/fr/wiki/P%C3%A9trification",
       "color": 15402759
     },
     {
       "title": "__Golems__",
       "description": "__Invoquez deux combattants élémentaux de pierre__ dans la mêlée. Invoquer pétrifie les ennemis proches d'**Atlas**. Une fois détruits, les Golems s'effondrent en une pile de gravats guérisseurs. \n```md\nPuissance :\n500 / 750 / 1000 / 1200 (santé)\n50 / 150 / 250 / 500 (armure)\n800 / 1000 / 1400 / 2000 (attaque de mêlée)\n200 / 250 / 350 / 500 (attaque à distance)\n500 / 750 / 1000 / 1250 (dégâts Explosif Blast w.png d'autodestruction)\n```\n```md\nDurée : 15 / 20 / 30 / 45 s (durée de vie)\n```\n```md\nPortée :\n3 / 4 / 5 / 6 m (rayon de pétrification)\n3 / 4 / 5 / 6 m (rayon d'autodestruction Blast w.png)\n1.0 (multiplicateur de vitesse)\n```\n```md\nAutre :\n2 (nbr. de Golems)\n10 s (durée de pétrification)\n1 (nbr. de Gravat libérer à la mort par Golem)\n≤ 50 (santé/armure bonus du Gravat)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Golem Titanesque\nGolem Titanesque est un Mods d'Augmentation de Warframes pour **Atlas** qui __modifie Golems afin de n'en créer qu'un seul, plus grand, avec des statistiques améliorées__ et qui augmentera occasionnellement son Niveau de Menace. La réactivation de cette Capacité qui provoquait l'autodestruction des Golems est remplacée par une raillerie et une attaque au sol qui renverse tous les ennemis dans un rayon de 15 mètres.\n```md\nSanté : 200%/225%/265%/300%\n```\n```md\nDégâts : 200%/225%/265%/300%\n```\n```md\nDégâts d'attaque au sol : 200/300/400/500\n```\nPVP\nArticle Principal: Gargouille\nGargouille Icon est un Mods d'Augmentation de Warframes pour les Golems d'**Atlas** utilisable en PVE et en Conclave qui le transforme en un Golem et lui octroie de __l'armure additionnelle qui absorbe une quantité de dégâts__ calculée en fonction de la Santé moddée d'Atlas.\nL'article Gargouille ne possède pas de section stats.",
-      "url": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_de_Lames",
+      "url": "https://warframe.fandom.com/fr/wiki/Golems",
       "color": 15402759
     }
   ],
