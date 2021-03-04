@@ -1,0 +1,43 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "__Banshee/ Banshee Prime__",
+      "description": "**Banshee** est une Warframe avec pour thème les pulsations sonores. Les Capacités acoustiques sophistiquées de **Banshee** lui permettent de __localiser les positions ennemies et leurs points faibles__, __nullifier le bruit de ses armes__ et même émettre de fortes vibrations pour renverser ses ennemis.",
+      "url": "https://warframe.fandom.com/fr/wiki/Banshee",
+      "color": 166345
+    },
+    {
+      "title": "__Passif: Silencieux__",
+      "description": "Les bruits des armes équipées sont étouffés ce qui les rend inaudibles par les ennemis.",
+      "url": "https://warframe.fandom.com/fr/wiki/Banshee#Capacit.C3.A9s",
+      "color": 2799119
+    },
+    {
+      "title": "__Pouvoir : Explosion Sonique__",
+      "description": "**Banshee** __émet une onde sonique qui repousse les cibles__ à portée avec assez de force pour les neutraliser ou les tuer. \n```md\nPuissance : 25/35/40/50\n```\n```md\nPortée : 10/12/13/15\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Fracture Sonique\nFracture Sonique est un Mods d'Augmentation des Warframes pour Explosion Sonique de **Banshee** qui __réduit temporairement l'armure des ennemis__ touchés.\n```md\nRéduction d'armure : 30%/45%/55%/70%\n```\n```md\nDurabilité : 2s/4s/6s/8s/\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Explosion_Sonique",
+      "color": 15402759
+    },
+    {
+      "title": "__Sonar__",
+      "description": "Utilisant la détection acoustique, le puissant sonar de **Banshee** détecte et traque les ennemis tout en exposant leurs points faibles à tout les membres de votre équipe. \n\n```md\nPuissance :\n5x (multiplicateur d'armure)\n2850 / 3150 / 3450 / 3750 (santé de base)\n250 / 300 / 350 / 500 (dégâts explosion)\n150 / 300 / 450 / 600 (dégâts rocher)\n```\n```md\nPortée : 3 / 3 / 4 / 5 m (rayon d'explosion)\n```\n```md\nAutre : 1 / 2 / 3 / 4 s (durée d'invulnérabilité)\n15 m (distance projection rocher)\n30 m (distance projection rocher pétrifié)\n```\nMod d’augmentation :\n\nPVE\n    Article Principal: Résonance\n\nRésonance est un Mod d'Augmentation de Warframe pour Sonar de **Banshee** qui déclenche une impulsion sonar supplémentaire avec une fraction du restant de durée de l'impulsion initiale si un ennemi est tué avec un de ses points faibles.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Sonar#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Pétrification__",
+      "description": "Le regard pétrifiant d'Atlas fossilisera les ennemis, soignera les Golems et renforcera les Remparts. Quand ils sont éclatés en morceaux,__ les ennemis pétrifiés laissent tomber des Gravats__ de soin ou d'armure bonus pour **Atlas**.\nPuissance : 100 % (soin Golem)\n```\n```md\nDurée : 5 / 10 / 15 / 20 s\n```\n```md\nPortée : 10 / 11 / 12 / 14 m (portée du cône)\nAutre : 60° (FOV)\n+50 % (vulnérabilité)\n1 (Gravat par ennemi)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Regard Minéral\nRegard Minéral est un Mods d'Augmentation de Warframes pour **Atlas** qui permet à Pétrification de numériser les ennemis qu'il pétrifie pour les ajouter au codex et donner __une chance d'obtenir du butin supplémentaire__.\n```md\nChance de loot : 10%/15%/20%/25%\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/P%C3%A9trification",
+      "color": 15402759
+    },
+    {
+      "title": "__Golems__",
+      "description": "__Invoquez deux combattants élémentaux de pierre__ dans la mêlée. Invoquer pétrifie les ennemis proches d'**Atlas**. Une fois détruits, les Golems s'effondrent en une pile de gravats guérisseurs. \n```md\nPuissance :\n500 / 750 / 1000 / 1200 (santé)\n50 / 150 / 250 / 500 (armure)\n800 / 1000 / 1400 / 2000 (attaque de mêlée)\n200 / 250 / 350 / 500 (attaque à distance)\n500 / 750 / 1000 / 1250 (dégâts Explosif Blast w.png d'autodestruction)\n```\n```md\nDurée : 15 / 20 / 30 / 45 s (durée de vie)\n```\n```md\nPortée :\n3 / 4 / 5 / 6 m (rayon de pétrification)\n3 / 4 / 5 / 6 m (rayon d'autodestruction Blast w.png)\n1.0 (multiplicateur de vitesse)\n```\n```md\nAutre :\n2 (nbr. de Golems)\n10 s (durée de pétrification)\n1 (nbr. de Gravat libérer à la mort par Golem)\n≤ 50 (santé/armure bonus du Gravat)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Golem Titanesque\nGolem Titanesque est un Mods d'Augmentation de Warframes pour **Atlas** qui __modifie Golems afin de n'en créer qu'un seul, plus grand, avec des statistiques améliorées__ et qui augmentera occasionnellement son Niveau de Menace. La réactivation de cette Capacité qui provoquait l'autodestruction des Golems est remplacée par une raillerie et une attaque au sol qui renverse tous les ennemis dans un rayon de 15 mètres.\n```md\nSanté : 200%/225%/265%/300%\n```\n```md\nDégâts : 200%/225%/265%/300%\n```\n```md\nDégâts d'attaque au sol : 200/300/400/500\n```\nPVP\nArticle Principal: Gargouille\nGargouille Icon est un Mods d'Augmentation de Warframes pour les Golems d'**Atlas** utilisable en PVE et en Conclave qui le transforme en un Golem et lui octroie de __l'armure additionnelle qui absorbe une quantité de dégâts__ calculée en fonction de la Santé moddée d'Atlas.\nL'article Gargouille ne possède pas de section stats.",
+      "url": "https://warframe.fandom.com/fr/wiki/Golems",
+      "color": 15402759
+    }
+  ],
+  "username": "Atlas",
+  "avatar_url": "https://www.discordavatars.com/wp-content/uploads/2020/05/339363864439422986.jpg"
+}
