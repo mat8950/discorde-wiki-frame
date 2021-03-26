@@ -2,20 +2,20 @@
   "content": null,
   "embeds": [
     {
-      "title": "__Banshee/ Banshee Prime__",
-      "description": "La représentation bestiale des forces élémentaires de la nature, Chroma déconcerte ses ennemis et renforce ses alliés grâce à ses caprices élémentaires.",
+      "title": "__Chroma / Chroma Prime__",
+      "description": "La représentation bestiale des forces élémentaires de la nature, **Chroma** déconcerte ses ennemis et renforce ses alliés grâce à ses caprices élémentaires.",
       "url": "https://warframe.fandom.com/fr/wiki/Chroma",
       "color": 166345
     },
     {
       "title": "__Alignement Élémentaire__",
-      "description": "Chroma adapte son élément en fonction de la couleur de la 1ère émission .",
+      "description": "**Chroma** adapte son élément en fonction de la couleur de la 1ère émission .",
       "url": "https://warframe.fandom.com/fr/wiki/Chroma#Alignement_El.C3.A9mentaire_",
       "color": 2799119
     },
     {
       "title": "__Pouvoir : Hurlement Spectral__",
-      "description": "Expirez __un souffle de destruction élémentaire__. Appuyez pour passer en revue les éléments, maintenez pour lancer. L'élément choisi s'applique à tous les Pouvoirs de **Chroma**.\n\n```md\nPuissance : 25/35/40/50\n```\n```md\nPortée : 10/12/13/15\n```\nMod d’augmentation :\n\nPVE/PVP\nArticle Principal: Ire Spectrale\n\nIre Spectrale est un Mod d'Augmentation de Warframes qui permet à la capacité Hurlement Spectral de Chroma de __tirer un projectile élémentaire en désactivant la capacité__. Les dégâts seront plus importants si la capacité est utilisée plus longtemps jusqu’à une certaine limite.\n\n```md\nDégâts/s: 25 / 50 / 75 / 100 \n```\n```md\nDégâts max : 125 / 250 / 375 / 500 \n```\n```md\nCoût : 6/.../9\n```",
+      "description": "Expirez __un souffle de destruction élémentaire__. Appuyez pour passer en revue les éléments, maintenez pour lancer. L'élément choisi s'applique à tous les Pouvoirs de **Chroma**.\n\n```md\nPuissance : 25/35/40/50\n```\n```md\nPortée : 10/12/13/15\n```\nMod d’augmentation :\n\nPVE/PVP\nArticle Principal: Ire Spectrale\n\nIre Spectrale est un Mod d'Augmentation de Warframes qui permet à la capacité Hurlement Spectral de **Chroma** de __tirer un projectile élémentaire en désactivant la capacité__. Les dégâts seront plus importants si la capacité est utilisée plus longtemps jusqu’à une certaine limite.\n\n```md\nDégâts/s: 25 / 50 / 75 / 100 \n```\n```md\nDégâts max : 125 / 250 / 375 / 500 \n```\n```md\nCoût : 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Hurlement_Spectral#Augmentation",
       "color": 15402759
     },
@@ -39,7 +39,7 @@
     },
     {
       "title": "__Protection élémentaire__ (GLACE)",
-      "description": "```md\nPuissance :\n\n1.5x / 2x / 2.5x / 3x (multiplicateur dégâts renvoyés)\n\n25% / 75% / 100% / 150% (armure bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n```\n```md\nPortée : 6 / 8 / 10 / 12 m (rayon aura bonus)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n\nMod d’augmentation :\n\nPVE\nArticle Principal: Protection Éternelle\n\nProtection Éternelle est un Mod d'Augmentation de Warframe qui __permet aux alliés affectés par la Protection Élémentaire de Chroma de conserver l'effet de l'aura en sortant du rayon d'action__, pendant un pourcentage de la durée restante.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
+      "description": "```md\nPuissance :\n\n1.5x / 2x / 2.5x / 3x (multiplicateur dégâts renvoyés)\n\n25% / 75% / 100% / 150% (armure bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n```\n```md\nPortée : 6 / 8 / 10 / 12 m (rayon aura bonus)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n\nMod d’augmentation :\n\nPVE\nArticle Principal: Protection Éternelle\n\nProtection Éternelle est un Mod d'Augmentation de Warframe qui __permet aux alliés affectés par la Protection Élémentaire de **Chroma** de conserver l'effet de l'aura en sortant du rayon d'action__, pendant un pourcentage de la durée restante.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89l%C3%A9mentaire#Glace_",
       "color": 15402759
     },
