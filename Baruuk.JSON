@@ -21,7 +21,7 @@
     },
     {
       "title": "__Accalmie__",
-      "description": "Une vague apaisante qui __ralentit les ennemis jusqu'à ce qu'ils s'endorment__. Les ennemis seront réveillés lorsqu'ils subissent des dégâts et seront confus et désorientés. De plus, ils seront affligés d'une amnésie de courte portée leur faisant oublier tout ce qui s'est produit avant l'accalmie. \n\n```md\nPortée : 10 / 15 / 20 / 25 m\n```\n```md\nDurée : 2 / 3 / 4 / 5 s (durée de la vague)\n     10 / 13 / 18 / 25 s (durée du sommeil)\n```",
+      "description": "Une vague apaisante qui __ralentit les ennemis jusqu'à ce qu'ils s'endorment__. Les ennemis seront réveillés lorsqu'ils subissent des dégâts et seront confus et désorientés. De plus, ils seront affligés d'une amnésie de courte portée leur faisant oublier tout ce qui s'est produit avant l'accalmie. \n\n```md\nPortée : 10 / 15 / 20 / 25 m\n```\n```md\nDurée : 2 / 3 / 4 / 5 s (durée de la vague)\n     10 / 13 / 18 / 25 s (durée du sommeil)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Accalmie Infinie\n\nAccalmie Infinie est un Mod d'Augmentation de Warframe pour l'Accalmie de **Baruuk** qui fait que __les coups de grâce relancera Accalmie pour une partie, ou toute la durée restante__. Ce mod augmente passivement la durée d'Accalmie. \n\n```md\nDurée du relancement : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Accalmie",
       "color": 15402759
     },
@@ -33,7 +33,7 @@
     },
     {
       "title": "__Tempête Reposante__",
-      "description": "N'en pouvant plus, __**Baruuk** fait appel aux Vents du Désert afin de délivrer des coups puissants à l'aide de ses pieds et de ses poings__. Plus le temps passe alors qu'il se déchaîne telle une tempête, plus il reprend son sang-froid.\n```md\nPuissance : 100 / 125 / 200 / 250 (dégâts)\n            10% / 15% / 20% / 25% (réduction des dégâts)\n```",
+      "description": "N'en pouvant plus, __**Baruuk** fait appel aux Vents du Désert afin de délivrer des coups puissants à l'aide de ses pieds et de ses poings__. Plus le temps passe alors qu'il se déchaîne telle une tempête, plus il reprend son sang-froid.\n```md\nPuissance : 100 / 125 / 200 / 250 (dégâts)\n            10% / 15% / 20% / 25% (réduction des dégâts)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Tempête Réactive\n\nTempête Réactive est un Mod d'Augmentation de Warframe pour la Tempête Reposante de **Baruuk** qui __augmente la Chance de Statut de base des Vents du Désert et change son type de dégâts pour s'adapter aux faiblesses de l'ennemi__.\n\n```md\nChance de statut : 35% / 45% / 55% / 70%\n```\n```md\nCoût : 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_Reposante",
       "color": 15402759
     }
