@@ -1,1 +1,61 @@
-
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "__Banshee/ Banshee Prime__",
+      "description": "La représentation bestiale des forces élémentaires de la nature, Chroma déconcerte ses ennemis et renforce ses alliés grâce à ses caprices élémentaires.",
+      "url": "https://warframe.fandom.com/fr/wiki/Chroma",
+      "color": 166345
+    },
+    {
+      "title": "__Alignement Élémentaire__",
+      "description": "Chroma adapte son élément en fonction de la couleur de la 1ère émission .",
+      "url": "https://warframe.fandom.com/fr/wiki/Chroma#Alignement_El.C3.A9mentaire_",
+      "color": 2799119
+    },
+    {
+      "title": "__Pouvoir : Hurlement Spectral__",
+      "description": "Expirez __un souffle de destruction élémentaire__. Appuyez pour passer en revue les éléments, maintenez pour lancer. L'élément choisi s'applique à tous les Pouvoirs de **Chroma**.\n\n```md\nPuissance : 25/35/40/50\n```\n```md\nPortée : 10/12/13/15\n```\nMod d’augmentation :\n\nPVE/PVP\nArticle Principal: Ire Spectrale\n\nIre Spectrale est un Mod d'Augmentation de Warframes qui permet à la capacité Hurlement Spectral de Chroma de __tirer un projectile élémentaire en désactivant la capacité__. Les dégâts seront plus importants si la capacité est utilisée plus longtemps jusqu’à une certaine limite.\n\n```md\nDégâts/s: 25 / 50 / 75 / 100 \n```\n```md\nDégâts max : 125 / 250 / 375 / 500 \n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Hurlement_Spectral#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Protection élémentaire__ (FEU)",
+      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```md\nPuissance : 25 / 50 / 75 / 100 (dégâts/s)\n           50% / 75% / 100% / 200% (santé bonus)\n```\n```md\nPortée : 6 / 8 / 10 / 12 m (rayon aura bonus)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n```md\nAutre : 2% / 5% / 7% / 10% (chance de statut)\n        5 m (rayon aura dégâts)\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Sonar#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Protection élémentaire__ (ÉLECTRIQUE)",
+      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```md\nPuissance :\n \n2.5x / 3x / 5x / 10x (multiplicateur dégâts renvoyés) \n\n50% / 65% / 75% / 100% (bouclier bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n\n50 / 60 / 100 / 200 (dégâts minimum décharge)\n```\n```md\nPortée : \n\n6 / 8 / 10 / 12 m (rayon aura bonus)\n\n5 / 6 / 8 / 10 m (portée décharge)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89l%C3%A9mentaire#Electrique_",
+      "color": 15402759
+    },
+    {
+      "title": "__Protection élémentaire__ (POISON)",
+      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```md\nPuissance :\n\n25 / 50 / 75 / 100 (dégâts/s)\n\n25% / 35% / 40% / 50% (chance de dégâts/s)\n\n15% / 25% / 30% / 35% (vitesse de changement d'arme bonus)\n\n15% / 25% / 30% / 35% (vitesse de rechargement bonus)\n```\n```md\nPortée :\n\n6 / 8 / 10 / 12 m (rayon aura bonus)\n\n5 m (rayon aura dégâts)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89l%C3%A9mentaire#Poison_",
+      "color": 15402759
+    },
+    {
+      "title": "__Protection élémentaire__ (GLACE)",
+      "description": "```md\nPuissance :\n\n1.5x / 2x / 2.5x / 3x (multiplicateur dégâts renvoyés)\n\n25% / 75% / 100% / 150% (armure bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n```\n```md\nPortée : 6 / 8 / 10 / 12 m (rayon aura bonus)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n\nMod d’augmentation :\n\nPVE\nArticle Principal: Protection Éternelle\n\nProtection Éternelle est un Mod d'Augmentation de Warframe qui __permet aux alliés affectés par la Protection Élémentaire de Chroma de conserver l'effet de l'aura en sortant du rayon d'action__, pendant un pourcentage de la durée restante.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89l%C3%A9mentaire#Glace_",
+      "color": 15402759
+    },
+    {
+      "title": "__Armure D’Épine__",
+      "description": "__Renforce l'armure__ de **Chroma** lorsque son bouclier est attaqué.\n__Augmente les dégâts__ des armes de **Chroma **lorsque sa santé est attaquée. \n\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n```md\nPortée : 8 / 10 / 15 / 18 m\n```\n```md\nPuissance : \n\n200% / 250% / 300% / 350%\n(bonus d'armure maximum)\n\n200% / 225% / 250% / 275%\n(bonus de dégâts maximum)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Vengeance Épineuse\n\nVengeance Épineuse est un Mods d'Augmentation des Warframes qui permet à la capacité __Armure d'Épines de **Chroma** d'exploser dans une zone après avoir reçu 150 points de dommages__. Cette explosion inflige des Effets de Statut aux ennemis. \n\n```md\nPortée: 4 / 5 / 7 / 9 m\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Armure_d%27%C3%89pines#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Effigie__",
+      "description": "**Chroma** __produit une protection massive en tournant sur lui même__, qui renforce ses alliés proches et __engloutit les ennemis dans des attaques élémentaires__.\n\n```md\nPuissance : \n100 / 200 / 300 / 400 (dégâts/tick)\n500 / 1000 / 1500 / 2000 (dégâts/s)\n1000 / 2000 / 4000 / 8000 (santé)\n```\n```md\nAutre : \n20 m (rayon d'attaque)\n30 m (rayon rugissement)\n5 m (rayon attaque radiale)\n```\n```\nSentinelle : \n5 (tick/s)\n15% / 30% / 45% / 60% (chance de crédits)\n25% / 50% / 75% / 100% (bonus de crédits)\n```\n```\nChroma : \n20% (bonus de vitesse)\n50% (réduction d'armure)\n```\n\nMod d’augmentation :\n\nPVE\nArticle Principal: Effigie Guidée\n\nEffigie Guidée est un mod d'augment pour **Chroma** qui permet de contrôler la sentinelle de la capacité Effigie en la __déplacant rapidement vers une position tout en infligent des dégâts sur son chemin__.\n\n```md\nDégâts par seconde : 500 / 1000 / 1500 / 2000\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Effigie#Sentinelle_",
+      "color": 15402759
+    }
+  ],
+  "username": "Atlas",
+  "avatar_url": "https://www.discordavatars.com/wp-content/uploads/2020/05/339363864439422986.jpg"
+}
