@@ -1,0 +1,43 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "__Baruuk__",
+      "description": "**Baruuk** dit le moine pacifiste , __invoque des runes sacrées pour échapper aux conflits__ __et apporter un calme heureux à des conflits sans fin__. Allez au-delà de sa patience, pour que ses ennemis cherchent le repos éternel dans la tempête déchaînée.",
+      "url": "https://warframe.fandom.com/fr/wiki/Baruuk",
+      "color": 166345
+    },
+    {
+      "title": "__Passif: Sang Froid__",
+      "description": "**Baruuk** utilise une jauge de **Sang-Froid **qui lui permet de ce déchainé plus fort sur ces ennemis.",
+      "url": "https://warframe.fandom.com/fr/wiki/Baruuk#Capacit.C3.A9s",
+      "color": 2799119
+    },
+    {
+      "title": "__Pouvoir : Esquive__",
+      "description": "__Esquivez tous les projectiles vous visant__, mais uniquement si vous n'attaquez pas. Utilisez le pouvoir à nouveau pour le désactiver.\n\n```md\nPortée : 120° / 130° / 150° / 180°\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Esquive",
+      "color": 15402759
+    },
+    {
+      "title": "__Accalmie__",
+      "description": "Une vague apaisante qui __ralentit les ennemis jusqu'à ce qu'ils s'endorment__. Les ennemis seront réveillés lorsqu'ils subissent des dégâts et seront confus et désorientés. De plus, ils seront affligés d'une amnésie de courte portée leur faisant oublier tout ce qui s'est produit avant l'accalmie. \n\n```md\nPortée : 10 / 15 / 20 / 25 m\n```\n```md\nDurée : 2 / 3 / 4 / 5 s (durée de la vague)\n     10 / 13 / 18 / 25 s (durée du sommeil)\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Accalmie",
+      "color": 15402759
+    },
+    {
+      "title": "__Mains Amères__",
+      "description": "Fait apparaître un essaim de dagues en orbite qui __cherchent les armes ennemies puis les détruisent__ en de petites explosions. À utiliser en __tandem avec le pouvoir Esquive pour en doubler la portée__.\n```md\nPortée : 6 m (portée de ciblage)\n         3 m (rayon d'explosion) \n```\n```md\nPuissance : 100 / 150 / 200 / 250 (dégats Explosif)\n             3 / 4 / 6 / 8 (nombres de dagues)\n```\n```md\nAutre : 10% (réduction des dégâts par dague)\n        90% (limite maximum de réduction des dégâts)\n        50% (nombre de dagues max par allié)\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Mains_Am%C3%A8res",
+      "color": 15402759
+    },
+    {
+      "title": "__Tempête Reposante__",
+      "description": "N'en pouvant plus, __**Baruuk** fait appel aux Vents du Désert afin de délivrer des coups puissants à l'aide de ses pieds et de ses poings__. Plus le temps passe alors qu'il se déchaîne telle une tempête, plus il reprend son sang-froid.\n```md\nPuissance : 100 / 125 / 200 / 250 (dégâts)\n            10% / 15% / 20% / 25% (réduction des dégâts)\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Temp%C3%AAte_Reposante",
+      "color": 15402759
+    }
+  ],
+  "username": "Atlas",
+  "avatar_url": "https://www.discordavatars.com/wp-content/uploads/2020/05/339363864439422986.jpg"
+}
