@@ -1,1 +1,43 @@
-
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "__Valkyr / Valkyr Prime__",
+      "description": "**Valkyr** est une Warframe de type _Berserk_  , guidée par une haine sauvage et une fureur aveugle, ses attaques démembrent et déchirent ses proies avec férocité",
+      "url": "https://warframe.fandom.com/fr/wiki/Valkyr#Principal",
+      "color": 166345
+    },
+    {
+      "title": "__Passif: Agile__",
+      "description": "**Valkyr** est agile, elle est capable de récupérer 50% plus rapidement d'un renversement, ainsi que d'avoir la capacité d'atterrir sans s'arrêter lors d'une longue chute.",
+      "url": "https://warframe.fandom.com/fr/wiki/Valkyr#Capacit.C3.A9s",
+      "color": 2799119
+    },
+    {
+      "title": "__Pouvoir : Lien d'arrachage__",
+      "description": "**Valkyr** __lance un grappin là où elle vise__. S'il touche un ennemi, elle le tire vers elle. S'il touche le terrain, elle est propulsée à l'emplacement du grappin.\n```md\nPuissance : 300 / 400 / 500 / 600\n```\n```md\nPortée : 25 / 40 / 60 / 75 m\n```\n```md\nDurée : 1 s (fenêtre de combo)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Ligne Pivotante\n_Ligne Pivotante_ est un Mods d'Augmentation de Warframes qui donne à la capacité Ligne d'Arrachage de **Valkyr** la __possibilité de l'utiliser plusieurs fois sans consommer d'Energie__ si elle est lancée en vol.\n```md\nRéduction d'armure : 30%/45%/55%/70%\n```\n```md\nDurabilité : 2s/4s/6s/8s/\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Ligne_d%27Arrachage#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Sonar__",
+      "description": "Utilisant la détection acoustique, le puissant sonar de **Banshee** __détecte et traque les ennemis tout en exposant leurs points faibles à tout les membres de votre équipe__. \n\n```md\nPuissance : 2x /3x /4x /5x\n```\n```md\nPortée : 20 / 25 / 30 / 35 m\n```\n```md\nDurée : 10 / 15 / 20 / 30 s\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Résonance\n\nRésonance est un Mod d'Augmentation de Warframe pour Sonar de **Banshee** qui __déclenche une impulsion sonar supplémentaire avec une fraction du restant de durée de l'impulsion initiale si un ennemi est tué avec un de ses points faibles__.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Sonar#Augmentation",
+      "color": 15402759
+    },
+    {
+      "title": "__Silence__",
+      "description": "Utiliser Silence crée une aura autour de **Banshee** qui __étourdit les ennemis et limite leur perception__, ainsi que leur réaction tactiques à vos coups de feu et à vos attaques. \n\n```md\nDurée : 10 / 15 / 20 / 30 s\n```\n```md\nPortée : 10 / 13 / 15 / 20 m \n```\nMod d’augmentation :\n\nPVE\n    Article Principal: Silence Sauvage\n\nSilence Sauvage est un Mods d'Augmentation de Warframes pour Silence de **Banshee** qui __améliore les dégâts des Coups de Grâce__ sur les ennemis affectés.\n```md\nDégats sup : 150% / 200% / 250% / 300% \n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Silence",
+      "color": 15402759
+    },
+    {
+      "title": "__Secousse Sonique__",
+      "description": "Canalisant toute son énergie acoustique dans le sol et les structures environnantes, **Banshee** utilise des réverbérations ultrasoniques pour secouer violemment le sol et faire __des dégâts de zone__.\n```md\nPuissance : 125 / 150 / 175 / 200 (dégâts explosifs)\n```\n```md\nPortée : 12 / 15 / 18 /20 m\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Secousse Résonnante\nSecousse Résonnante est un Mod d'Augmentation de Warframes pour **Banshee** qui __remplace la fonction de canalisation de Secousse Sonique__ pour __une seule grande onde de choc qui inflige des dégâts supplémentaires à l'épicentre, mais diminue les dégâts lorsque l'onde de choc se propage__.\n```md\nDégâts : x10 / x12 / x15 / x20\n```\n```md\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Secousse_Sonique",
+      "color": 15402759
+    }
+  ],
+  "username": "Valkyr",
+  "avatar_url": "https://github.com/mat8950/discorde-wiki-frame/blob/valkyr/Valkyr%20avatar.png?raw=true"
+}
