@@ -15,14 +15,14 @@
     },
     {
       "title": "__Pouvoir : Lien d'arrachage__",
-      "description": "**Valkyr** __lance un grappin là où elle vise__. S'il touche un ennemi, elle le tire vers elle. S'il touche le terrain, elle est propulsée à l'emplacement du grappin.\n```md\nPuissance : 300 / 400 / 500 / 600\n```\n```md\nPortée : 25 / 40 / 60 / 75 m\n```\n```md\nDurée : 1 s (fenêtre de combo)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Ligne Pivotante\n_Ligne Pivotante_ est un Mods d'Augmentation de Warframes qui donne à la capacité Ligne d'Arrachage de **Valkyr** la __possibilité de l'utiliser plusieurs fois sans consommer d'Energie__ si elle est lancée en vol.\n```md\nRéduction d'armure : 30%/45%/55%/70%\n```\n```md\nDurabilité : 2s/4s/6s/8s/\n```\n```md\nCoût : 6/.../9\n```",
+      "description": "**Valkyr** __lance un grappin là où elle vise__. S'il touche un ennemi, elle le tire vers elle. S'il touche le terrain, elle est propulsée à l'emplacement du grappin.\n```cs\nPuissance : 300 / 400 / 500 / 600\n```\n```cs\nPortée : 25 / 40 / 60 / 75 m\n```\n```cs\nDurée : 1 s (fenêtre de combo)\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Ligne Pivotante\n_Ligne Pivotante_ est un Mods d'Augmentation de Warframes qui donne à la capacité Ligne d'Arrachage de **Valkyr** la __possibilité de l'utiliser plusieurs fois sans consommer d'Energie__ si elle est lancée en vol.\n```md\nRéduction d'armure : 30%/45%/55%/70%\n```\n```md\nDurabilité : 2s/4s/6s/8s/\n```\n```md\nCoût : 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Ligne_d%27Arrachage#Augmentation",
       "color": 15402759
     },
     {
-      "title": "__Sonar__",
-      "description": "Utilisant la détection acoustique, le puissant sonar de **Banshee** __détecte et traque les ennemis tout en exposant leurs points faibles à tout les membres de votre équipe__. \n\n```md\nPuissance : 2x /3x /4x /5x\n```\n```md\nPortée : 20 / 25 / 30 / 35 m\n```\n```md\nDurée : 10 / 15 / 20 / 30 s\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Résonance\n\nRésonance est un Mod d'Augmentation de Warframe pour Sonar de **Banshee** qui __déclenche une impulsion sonar supplémentaire avec une fraction du restant de durée de l'impulsion initiale si un ennemi est tué avec un de ses points faibles__.\n\n```md\nDurée : 50%/65%/80%/100%\n```\n```md\nCoût : 6/.../9\n```",
-      "url": "https://warframe.fandom.com/fr/wiki/Sonar#Augmentation",
+      "title": "__Cri de Guerre__",
+      "description": "**Valkyr** lance un cri épique qui améliore temporairement la vitesse des attaques de mêlée de ses alliés tout en ralentissant les ennemis à proximité, et fragilisant leur armure.\n\n```css\n[Puissance] :\n```\n```\n15% / 20% / 25% / 50% (bonus vitesse d'attaque)\n```\n```css\n25% / 35% / 45% / 50% (bonus d'armure)\n```\n```css\n15% / 20% / 25% / 30% (ralentissement ennemis)\n```\n```\n```css\n[ Portée ]:  20 / 25 / 30 / 35 m \n```\n```css\n[Durée ]: 10 / 15 / 20 / 30 s\n```\nMod d’augmentation :\n\nPVE\nArticle Principal: Résonance\n\nRésonance est un Mod d'Augmentation de Warframe pour Sonar de **Banshee** qui __déclenche une impulsion sonar supplémentaire avec une fraction du restant de durée de l'impulsion initiale si un ennemi est tué avec un de ses points faibles__.\n\n```cs\nDurée : 50%/65%/80%/100%\n```\n```cs\nCoût : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Cri_de_Guerre#Augmentation",
       "color": 15402759
     },
     {
