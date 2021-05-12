@@ -15,19 +15,19 @@
     },
     {
       "title": "__Pouvoir : Hurlement Spectral__",
-      "description": "Expirez __un souffle de destruction élémentaire__. Appuyez pour passer en revue les éléments, maintenez pour lancer. L'élément choisi s'applique à tous les Pouvoirs de **Chroma**.\n\n```md\nPuissance : 25/35/40/50\n```\n```md\nPortée : 10/12/13/15\n```\nMod d’augmentation :\n\nPVE/PVP\nArticle Principal: Ire Spectrale\n\nIre Spectrale est un Mod d'Augmentation de Warframes qui permet à la capacité Hurlement Spectral de **Chroma** de __tirer un projectile élémentaire en désactivant la capacité__. Les dégâts seront plus importants si la capacité est utilisée plus longtemps jusqu’à une certaine limite.\n\n```md\nDégâts/s: 25 / 50 / 75 / 100 \n```\n```md\nDégâts max : 125 / 250 / 375 / 500 \n```\n```md\nCoût : 6/.../9\n```",
+      "description": "Expirez __un souffle de destruction élémentaire__. Appuyez pour passer en revue les éléments, maintenez pour lancer. L'élément choisi s'applique à tous les Pouvoirs de **Chroma**.\n\n```css\n[Puissance]: 25/35/40/50\n```\n```css\n[Portée]: 10/12/13/15 \n```\nMod d’augmentation :\n\nPVE/PVP\nArticle Principal: Ire Spectrale\n\nIre Spectrale est un Mod d'Augmentation de Warframes qui permet à la capacité Hurlement Spectral de **Chroma** de __tirer un projectile élémentaire en désactivant la capacité__. Les dégâts seront plus importants si la capacité est utilisée plus longtemps jusqu’à une certaine limite.\n\n```css\n[Dégâts/s]: 25 / 50 / 75 / 100 \n```\n```css\n[Dégâts max]: 125 / 250 / 375 / 500 \n```\n```css\n[Coût]: 6/.../9\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Hurlement_Spectral#Augmentation",
       "color": 15402759
     },
     {
       "title": "__Protection élémentaire__ (FEU)",
-      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```md\nPuissance : 25 / 50 / 75 / 100 (dégâts/s)\n           50% / 75% / 100% / 200% (santé bonus)\n```\n```md\nPortée : 6 / 8 / 10 / 12 m (rayon aura bonus)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```\n```md\nAutre : 2% / 5% / 7% / 10% (chance de statut)\n        5 m (rayon aura dégâts)\n```",
+      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```css\n[Puissance]: 25 / 50 / 75 / 100 (dégâts/s)\n           50% / 75% / 100% / 200% (santé bonus)\n```\n```css\n[Portée]: 6 / 8 / 10 / 12 mètres (rayon aura bonus)\n```\n```css\n[Durée]: 10 / 15 / 20 / 25 secondes\n```\n```css\n[Autre]: 2% / 5% / 7% / 10% (chance de statut)\n        5 mètres (rayon aura dégâts)\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Sonar#Augmentation",
       "color": 15402759
     },
     {
       "title": "__Protection élémentaire__ (ÉLECTRIQUE)",
-      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```md\nPuissance :\n \n2.5x / 3x / 5x / 10x (multiplicateur dégâts renvoyés) \n\n50% / 65% / 75% / 100% (bouclier bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n\n50 / 60 / 100 / 200 (dégâts minimum décharge)\n```\n```md\nPortée : \n\n6 / 8 / 10 / 12 m (rayon aura bonus)\n\n5 / 6 / 8 / 10 m (portée décharge)\n```\n```md\nDurée : 10 / 15 / 20 / 25 s\n```",
+      "description": "Entoure **Chroma** et ses coéquipiers avec un bouclier qui renvoie les attaques ennemies avec l'élément choisi. \n\n```css\n[Puissance]:\n \n2.5x / 3x / 5x / 10x (multiplicateur dégâts renvoyés) \n\n50% / 65% / 75% / 100% (bouclier bonus)\n\n10% / 15% / 20% / 25% (chance de statut)\n\n50 / 60 / 100 / 200 (dégâts minimum décharge)\n```\n```css\n[Portée]: \n\n6 / 8 / 10 / 12 mètres (rayon aura bonus)\n\n5 / 6 / 8 / 10 mètres (portée décharge)\n```\n```css\n[Durée]: 10 / 15 / 20 / 25 secondes\n```",
       "url": "https://warframe.fandom.com/fr/wiki/Protection_%C3%89l%C3%A9mentaire#Electrique_",
       "color": 15402759
     },
@@ -56,6 +56,6 @@
       "color": 15402759
     }
   ],
-  "username": "Atlas",
-  "avatar_url": "https://www.discordavatars.com/wp-content/uploads/2020/05/339363864439422986.jpg"
+  "username": "Chroma",
+  "avatar_url": "https://raw.githubusercontent.com/mat8950/discorde-wiki-frame/chroma/ChromaPrime.png"
 }
