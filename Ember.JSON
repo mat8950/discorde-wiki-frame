@@ -1,0 +1,43 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "__Ember  / Ember Prime__",
+      "description": "La rage ardente d'**Ember** engloutit ses ennemis et disperse leurs cendres dans le vent solaire. __Impératrice de la flamme éternelle__, brûlez le champ de bataille pour éliminer toute menace.",
+      "url": "https://warframe.fandom.com/fr/wiki/Ember#principal",
+      "color": 166345
+    },
+    {
+      "title": "__Passif: Conflagration__",
+      "description": "Se révélant dans le feu du combat, **Ember** obtient 5% de Puissance de Pouvoir pour __chaque ennemi subissant un proc de Feu__ dans un rayon de 50 mètres.",
+      "url": "https://warframe.fandom.com/fr/wiki/Ember#Capacit.C3.A9s",
+      "color": 2799119
+    },
+    {
+      "title": "__Pouvoir : Boule de Feu__",
+      "description": "Chargez et lancez un projectile enflammé brûlant les ennemis touchés.\n```css\n[Portée]: 2 - 2.4 mètres '(rayon)\n```\n```css\n[Puissance]: 150 / 275 / 300 / 400 '(dégâts Feu impact)'\n50 / 100 / 125 / 150 '(dégâts Feu de zone)'\n```\n```css\n[Durée]: 1.5 secondes '(fenêtre de combo)\n```\n```css\n[Autre]: 100% '(chance de statut impact)'\n'50%(chance de statut zone)'\n'8.0x (multiplicateur de dégâts max du combo)'\n'+1%/s (génération de chaleur pour Immolation)'\n```\nMod d’augmentation :\nPVE\nArticle Principal: Feu Frénétique\nFeu Frénétique est un Mods d'Augmentation de Warframes pour la Boule de Feu d'**Ember** qui permet __d'augmenter les dégâts des attaques des alliés avec des dégâts de Feu__.\n```css\n[Dégâts de Feu] : 50%/65%/80%/100%\n```\n```css\n[Durée]: 28/32/36/40 secondes\n```\n```css\n[Portée]: 25 mètres\n```\n```css\n[Coût] : 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Boule_de_Feu",
+      "color": 15402759
+    },
+    {
+      "title": "__Immolation__",
+      "description": "Protège **Ember** d'une armure emflammée brûlant sur la durée ceux qui osent s'en approcher trop près. __L'armure consomme de l'énergie une fois la jauge remplie__. Relancez le Pouvoir pour éteindre la flamme.\n```css\n[Portée] :N/A mètres\n```\n```css\n[Durée] :N/A secondes\n```\n```css\n[Autres] :\n90% (réduction maximum)\n0.5%/s (génération de chaleur)\n+1%/s (bonus de génération Boule de Feu)\n-2%/s (réduction de la génération Souffle de Feu)\n-50% (chaleur retirée par Souffle de Feu)\n+3%/s (bonus de génération Inferno)\n```\nMod d’augmentation :\nPVE\nArticle Principal: Radiance Immolante\nRadiance Immolante est un Mod d'Augmentation de Warframe d'**Ember** qui permet à Immolation __d'affecter les alliés à portée d'affinité__.\n```css\n[% de Réduction des Dégâts partagé] :20%/30%/40%/50%\n```\n```css\n[Coût]: 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Immolation",
+      "color": 15402759
+    },
+    {
+      "title": "__Souffle de Feu__",
+      "description": "Frappe le sol pour créer une vague de plasma qui embrase les ennemis proches et forme un cercle de feu grégeois. Ajoute des dégâts de Feu aux armes qui tirent à travers le cercle.\n```css\n[Portée]:? / ? / ? / 25 mètres (rayon vague) \n```\n```css\n[Puissance]:66 / 100 / 141 / 200 (dégâts Feu)\n```\n```css\n[Autre]:\n100% (chance de statut)\n50%-100% (réduction d'armure)\n-2%/s (génération de chaleur Immolation)\n-50% (dissipation de chaleur Immolation)\n```\n\nMod d’augmentation :\nPVE\nArticle Principal: Flamme Guérisseuse\nFlamme Guérisseuse est un mod d'augment pour la capacité Souffle de Feu d'**Ember**.__ Il permet de soigner le joueur pour chaque ennemi touché par Souffle de Feu__. Le soin varie en fonction de la chaleur accumulée par Immolation.\n```css\n[Santé Récupérée]: 10-20\t /15-30 /20-40/25-50\n```\n```css\n[Coût]: 6/.../9\n```\nMod d’augmentation :\nPVP\nArticle Principal: Flammes Purifiantes\nFlammes Purifiantes est un Mod d'Augmentation de Warframe pour la capacité de Souffle de Feu d'Ember qui permet de retirer 4 malus des joueurs qui pénètrent dans le feu.\n```css\n[Malus retirés]: 1/2/3/4\n```\n```css\n[Coût]: 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Souffle_de_Feu",
+      "color": 15402759
+    },
+    {
+      "title": "__Inferno__",
+      "description": "Un météore enflammé s'écrase devant **Ember**, submergeant ses ennemis d'un feu qui se propage dans leurs rangs.\n```css\n[Energie par Marque]: 12\n``````css\n[Durée] 7 / 10 / 12 / 15 secondes (durée anneau)\n```\n```css\n[Puissance]: 1000 / 1500 / 2000 / 2500 (dégâts météorite)\n200 - 400 / 250 - 500 / 300 - 600 / 350 - 700 (dégâts/s anneau )\n```\n```css\n[Portée]: 50 mètres\n```\n```css\n[Autre]: 100 (coût d'énergie )\n+3%/s (génération de chaleur Immolation)\n+0%-+100% (dégâts bonus d'Immolation)\n```\nMod d’augmentation :\nPVE\nArticle Principal: Exothermique\nExothermique est un Mod d'Augmentation de Warframe pour la capacité Inferno d'**Ember**. __Celui-ci donne une chance aux ennemis affectés par Inferno de laisser tomber des orbes d'énergie en mourant__.\n```css\n[Chance d'Orbe] : 5%/7.5%/10%/15%\n```\n```css\n[Coût]: 6/.../9\n```",
+      "url": "https://warframe.fandom.com/fr/wiki/Inferno",
+      "color": 15402759
+    }
+  ],
+  "username": "Ember Prime",
+  "avatar_url": "https://raw.githubusercontent.com/mat8950/discorde-wiki-frame/ember/EmberPrime%20256X256.png"
+}
